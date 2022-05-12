@@ -1,4 +1,7 @@
 ### Hi there 👋. Mi name is Sebastián Faingerch
+
+## Software Developer
+
 - 🔭 I’m currently working on Necxus
 - ✉️ My mail is seba.faingerch@gmail.com 
 - 🧠  I’m currently learning NodeJS
