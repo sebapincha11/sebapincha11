@@ -2,7 +2,7 @@
 
 ## Software Developer
 
-- 🔭 I’m currently working on Necxus
+- 💻 I'm currently work as a software developer at Necxus
 - ✉️ My mail is seba.faingerch@gmail.com 
 - 🧠  I’m currently learning NodeJS
 - 🌎 I'm from Buenos Aires, Argentina
