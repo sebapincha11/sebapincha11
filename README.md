@@ -4,8 +4,8 @@ Hi 👋 My name is Sebastian Faingerch
 Software developer
 ------------------
 
-* 🌍  I'm based in Buenos aires, Argentina
-* ✉️  You can contact me at [seba.faingerch@gmail.com](mailto:seba.faingerch@gmail.com)
+* 🌍  I'm from Buenos aires, Argentina
+* ✉️  My mail is [seba.faingerch@gmail.com](mailto:seba.faingerch@gmail.com)
 * 🧠  I'm learning Node JS
 
 ### Skills
