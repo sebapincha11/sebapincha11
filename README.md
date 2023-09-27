@@ -6,7 +6,7 @@ Software developer
 
 * 🌍  I'm from Buenos aires, Argentina
 * ✉️  My mail is [seba.faingerch@gmail.com](mailto:seba.faingerch@gmail.com)
-* 🧠  I'm learning React JS
+* 🧠  I'm learning React JS, and Laravel
 
 ## Skills
 
